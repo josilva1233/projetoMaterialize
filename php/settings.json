@@ -1,0 +1,30 @@
+{
+    "workbench.editor.enablePreview": false,
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.editor.untitled.hint": "hidden",
+    "launch": {
+        "configurations": [
+        
+        ]
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "dart.flutterSdkPath": "C:\\Users\\Josias Silva\\OneDrive\\Área de Trabalho\\Documents\\flutter_windows_2.5.3-stable\\flutter",
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    "dart.debugExternalPackageLibraries": true,
+    "dart.debugSdkLibraries": true,
+    "explorer.confirmDelete": false,
+    "cmake.configureOnOpen": true,
+    "json.format.enable": false
+}
